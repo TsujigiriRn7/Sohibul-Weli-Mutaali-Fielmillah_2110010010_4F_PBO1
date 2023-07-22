@@ -1,12 +1,14 @@
 # Proyek Akhir Pemrograman Berbasis Objek 1
 
-Proyek ini adalah contoh sederhana aplikasi pengolahan data mahasiswa menggunakan Java sebagai tugas akhir dari mata kuliah pemrograman berbasis objek 1.
+Proyek ini adalah contoh sederhana aplikasi pembelian tiket kapal pesiar menggunakan Java sebagai tugas akhir dari mata kuliah pemrograman berbasis objek 1.
 
 ## Deskripsi
 
-Aplikasi ini menerima input berupa nama dan NPM mahasiswa, dan memberikan output berupa informasi detail dari NPM tersebut seperti tahun masuk, fakultas, program studi, dan nomor registrasi.
+Program di ini adalah sebuah aplikasi sederhana untuk pembelian tiket kapal pesiar. Program ini menggunakan Java dan memiliki dua kelas utama yaitu TiketKapal dan TiketVIP.
 
-Aplikasi ini mengimplementasikan beberapa konsep penting dalam pemrograman berorientasi objek (OOP) seperti Class, Object, Atribut, Method Constructor, Method Mutator, Method Accessor, Encapsulation, Inheritance, Overloading, Overriding, Seleksi, Perulangan, IO Sederhana, Array, dan Error Handling.
+Secara keseluruhan, program ini memungkinkan pengguna untuk menambahkan tiket kapal pesiar VIP dengan nama, usia, tujuan, dan harga, serta menampilkan daftar tiket yang telah ditambahkan sebelumnya. Pengguna dapat mengulang proses hingga memilih opsi untuk keluar dari aplikasi.
+
+Program ini mengimplementasikan beberapa konsep penting dalam pemrograman berorientasi objek (OOP) seperti Class, Object, Atribut, Method Constructor, Method Mutator, Method Accessor, Encapsulation, Inheritance, Overloading, Overriding, Seleksi, Perulangan, IO Sederhana, Array, dan Error Handling.
 
 ## Penjelasan Kode
 **Penjelasan Source Code Aplikasi Pembelian Tiket Kapal**
