@@ -55,7 +55,7 @@ Kelas `Main` merupakan kelas utama dari program ini yang berisi fungsi `main` se
   - Opsi 3 (`case 3`): Keluar dari program dengan mengubah nilai `running` menjadi `false`.
   - Default: Menampilkan pesan jika opsi yang dimasukkan tidak valid.
 
-**Penutup**
+## Penutup
 
 Dengan aplikasi ini, pengguna dapat memanfaatkan kelas `TiketKapal` dan `TiketVIP` untuk membeli tiket kapal pesiar kelas VIP dan melihat daftar tiket yang telah dibeli. Pengguna dapat memilih opsi yang sesuai dengan angka untuk melakukan tugas tertentu dalam aplikasi.
 ## Pembuat
